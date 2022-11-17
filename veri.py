@@ -26,3 +26,5 @@
 # Big-O notasyonunda fonksiyonu domine eden kısmı alırız bu nedenle Big-O gösterimi O(n^2) şeklindedir.
 
 # Dizi sırasına göre 18 sayısı 4. indekstedir bu nedenle Average Case'e girer.
+
+[Patika.Dev](www.patika.dev)
